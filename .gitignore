@@ -161,6 +161,7 @@ data_002.txt
 data_003.txt
 data_004.txt
 data_005.txt
+data_unknown.txt
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
